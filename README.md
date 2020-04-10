@@ -1,4 +1,5 @@
-# Portuguese-Authors-Classification
+# Portuguese Authors Classification using NLP
+
 Classification of authors by fragments of texts using different NLP techniques.
 
 The objective of this project is to develop a classification model that accurately predicts the author of a text excerpt with 500 or 1000

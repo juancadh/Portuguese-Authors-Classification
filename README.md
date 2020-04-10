@@ -1,4 +1,4 @@
-# Portuguese Authors Classification using NLP
+# Authors Classification using NLP
 
 Classification of authors by fragments of texts using different NLP techniques.
 
